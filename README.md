@@ -1,5 +1,16 @@
+
 ### GetContentn Download and Maven
   * To use GetContent in Android
+```gradle
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
 ```gradle
 dependencies {
     compile 'compile 'com.github.MilanPithadia:GetContent:1.4''
