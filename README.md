@@ -13,7 +13,7 @@ allprojects {
 ```
 ```gradle
 dependencies {
-    compile 'compile 'com.github.MilanPithadia:GetContent:1.4''
+    'compile 'com.github.MilanPithadia:GetContent:1.4'
 }
 ```
 
